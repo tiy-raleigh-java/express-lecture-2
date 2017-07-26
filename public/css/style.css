@@ -5,3 +5,13 @@ img {
 img.food {
   float: right;
 }
+
+form,
+form div {
+  margin: 1em auto;
+}
+
+form {
+  border: 1px solid black;
+  padding: 1em;
+}
